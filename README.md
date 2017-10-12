@@ -1,0 +1,2 @@
+# Schools_Website
+This is a website made by PHP for backend, MYSQL for the database and HTML, CSS for the front end! IT is a website for different schools info where parents can browse and apply for their children. They can be accepted or rejected. For enrolled students, parents can keep track of their children reports and results and stay in contact with teachers. Teachers can upload grades for students. Students can solve homework and upload their answers and check their grades.
